@@ -9,7 +9,7 @@ public class Plane {
         System.out.println("Current Stage : " + stage);
     }
     void shoot(){
-        System.out.println("Asteroid Destroyed..");
+        System.out.println("Asteroid Destroyed, +20 points");
         score+=20;        
     }
 
